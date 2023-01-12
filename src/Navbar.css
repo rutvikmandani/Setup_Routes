@@ -1,0 +1,13 @@
+.navbar{
+  display: flex;
+  justify-content: space-around;
+  font-size: 35px;
+  padding: 10px;
+  background-color: aliceblue;
+  
+}
+
+.menu{
+  
+  text-decoration: none;
+}
